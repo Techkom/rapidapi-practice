@@ -25,7 +25,7 @@ SECRET_KEY = '4o%z*9$$xz7suq#@@=h)q7xr09uz+1a^n3^7_w*9m7h3b2+y2h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://rapidapi-practice.herokuapp.com/https://rapidapi-practice.herokuapp.com/']
 
 
 # Application definition
